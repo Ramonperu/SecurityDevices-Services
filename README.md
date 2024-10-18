@@ -226,7 +226,7 @@ Sincroniza los relojes de los dispositivos de red y sistemas con una fuente hora
 
 ### AAA Servers (Authentication, Authorization, Accounting)
 
-**Descripción**: Los **servidores AAA** (como RADIUS o TACACS+) gestionan la autenticación, autorización y el seguimiento del acceso de usuarios a sistemas y redes.
+Los **servidores AAA** (como RADIUS o TACACS+) gestionan la autenticación, autorización y el seguimiento del acceso de usuarios a sistemas y redes.
 
 **Beneficios:**
 
@@ -241,7 +241,7 @@ Sincroniza los relojes de los dispositivos de red y sistemas con una fuente hora
 
 ### Intrusion Detection/Prevention Systems (IDS/IPS)
 
-**Descripción**: Los **IDS** y **IPS** monitorean el tráfico de red para detectar y, en el caso de los IPS, bloquear amenazas como intrusiones o ataques maliciosos.
+Los **IDS** y **IPS** monitorean el tráfico de red para detectar y, en el caso de los IPS, bloquear amenazas como intrusiones o ataques maliciosos.
 
 **Beneficios:**
 
@@ -256,7 +256,7 @@ Sincroniza los relojes de los dispositivos de red y sistemas con una fuente hora
 
 ### **Virtual Private Network (VPN)**
 
-**Descripción**: **VPN** permite crear conexiones seguras y cifradas sobre redes públicas (como Internet), protegiendo la integridad y confidencialidad de los datos.
+Permite crear conexiones seguras y cifradas sobre redes públicas (como Internet), protegiendo la integridad y confidencialidad de los datos.
 
 **Beneficios:**
 
@@ -271,7 +271,7 @@ Sincroniza los relojes de los dispositivos de red y sistemas con una fuente hora
 
 ### **Domain Name System Security Extensions (DNSSEC)**
 
-**Descripción**: **DNSSEC** es una extensión de seguridad para DNS que autentica las respuestas de DNS para evitar ataques de suplantación y envenenamiento de caché.
+Es una extensión de seguridad para DNS que autentica las respuestas de DNS para evitar ataques de suplantación y envenenamiento de caché.
 
 **Beneficios:**
 
